@@ -1,2 +1,2 @@
-# my-portfolio
-Portfolio
+# Nick Narcise portfolio
+This is my professional portfolio. It uses AWS and ReactJS.
