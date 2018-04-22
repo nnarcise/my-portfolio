@@ -7,7 +7,7 @@ This is my professional portfolio utilizing AWS and ReactJS.
 * **Brew**
 * **NPM**
 * **Atom** and **apm**
-* **Git** and **Github** 
+* **Git** and **Github**
 * **SSH**
 * **HTML**
 * **CSS**
@@ -15,11 +15,14 @@ This is my professional portfolio utilizing AWS and ReactJS.
 * **Google Fonts**
 * **Python** **pip** **Boto3**
 * **AWS Lambda**
+* **AWS Rout53**
+* **AWS S3**
 * **AWS IAM**
-* **AWS CodeBuild**
-* **AWS CloudWatch**
 * **AWS SNS**
+* **AWS CloudFront**
+* **AWS CodeBuild**
 * **AWS CodePipeline**
+* **AWS CloudWatch**
 * **Babel**
 * **React** **JSX** and **mocha**
 * **Chai Assertion Library**
