@@ -21,11 +21,12 @@
 */
 
 .background--skyBlue {
-  background-color: rgb(52, 152, 219);
+  /*background-color: rgb(52, 152, 219);*/
+  background-color: rgb(21, 137, 255);
 }
 
 .color--skyBlue {
-  color: rgb(52, 152, 219);
+  color: rgb(21, 137, 255);
 }
 
 .color--cloud {
@@ -64,6 +65,9 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: .1rem;
 }
 
+li {
+  list-style-type: circle;
+}
 /*
   Helpers
 */
