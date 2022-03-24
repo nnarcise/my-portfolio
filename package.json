@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "local-web-server": "^5.2.0",
-    "npm": "^8.5.5",
+    "npm": "^3.10.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
