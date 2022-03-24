@@ -1,6 +1,6 @@
 {
   "name": "my-portfolio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My Portfolio",
   "main": "index.js",
   "scripts": {
@@ -10,21 +10,21 @@
     "webpack-watch": "webpack --watch"
   },
   "dependencies": {
-    "local-web-server": "^2.5.1",
-    "npm": "^5.8.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "local-web-server": "^5.2.0",
+    "npm": "^8.5.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-jest": "^22.4.3",
-    "babel-loader": "^7.1.4",
-    "babel-preset-env": "^1.6.1",
-    "babel-preset-react": "^6.24.1",
-    "enzyme": "^3.3.0",
-    "enzyme-adapter-react-16": "^1.1.1",
+    "babel-core": "^7.17.18",
+    "babel-jest": "^27.5.1",
+    "babel-loader": "^8.2.3",
+    "babel-preset-env": "^7.16.11",
+    "babel-preset-react": "^7.16.7",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
     "jest": "^22.4.3",
-    "react-test-renderer": "^16.2.0",
+    "react-test-renderer": "^17.0.2",
     "webpack": "^4.2.0",
     "webpack-cli": "^2.0.13"
   },
